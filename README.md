@@ -1,39 +1,38 @@
-# 👋 Hi, I'm Nikhitha 
+# 👋 Hi, I'm Rachakatla Nikhitha Raj  
 
-🎓 I'm an **M.Tech student at NITK Surathkal**, specializing in **Communication Engineering & Networks**, with a strong interest in **Digital Design and Verification**.
-
-💡 I love working on RTL design, testbench development, and verification methodologies like **SystemVerilog and UVM**.  
-My goal is to become a **Design Verification Engineer** in the semiconductor industry.
-
----
-
-### 🧰 Technical Skills
-
-- **HDL & Verification:** SystemVerilog, Verilog, UVM, VCS, ModelSim, QuestaSim  
-- **Scripting & Tools:** Python, Bash, Git, Makefile  
-- **Design & Analysis:** RTL Design, Functional Coverage, Assertions, Debugging  
-- **EDA Tools Exposure:** Cadence Xcelium, Synopsys VCS, Mentor Questa  
-- **Concepts:** FSM Design, Testbench Architecture, Timing Analysis, Assertions (SVA)
+🎓 **MTech Student | NITK Surathkal**  
+💼 Aspiring **Digital Design Verification Engineer**  
+💡 Passionate about **VLSI, RTL Design, and Functional Verification**  
 
 ---
 
+### 🧠 About Me  
 
-
----
-
-### 📈 GitHub Stats
-
-![Farha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+- 🔍 Currently learning and building projects in **SystemVerilog, UVM, and FPGA-based design**  
+- 💻 Interested in **Design Verification**, **SoC Architecture**, and **Semiconductor Industry** workflows  
+- 🧩 Enjoy solving logical and problem-solving challenges in **Digital Design**  
+- 📘 Strong foundation in **Verilog, SystemVerilog, C**, and **Scripting (Python/TCL)**  
 
 ---
 
-### 🤝 Connect with Me
+### ⚙️ Technical Skills  
 
-📫 **Email:** farha.asrar@example.com  
-🔗 [LinkedIn](linkedin.com/in/rachakatla-nikhitha-raj)  
+- **Languages:** Verilog, SystemVerilog, C, Python, TCL  
+- **EDA Tools:** Cadence Xcelium, Synopsys VCS, Mentor QuestaSim, Vivado, Quartus  
+- **Concepts:** RTL Design, UVM Testbench, Assertions, Coverage, Timing Analysis  
+- **Platforms:** FPGA (DE10 board), Linux, Git & GitHub  
+
+---
+
+### 📈 GitHub Stats  
+
+![Nikhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikkisTechuse&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkisTechuse&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect with Me  
+
+📫 **Email:** nikitharaj630@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rachakatla-nikhitha-raj)  
 💼 [GitHub](https://github.com/NikkisTechuse)
-
----
-
-⭐ *"Designing and verifying reliable hardware — one waveform at a time."*
